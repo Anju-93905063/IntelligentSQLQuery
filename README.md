@@ -12,7 +12,8 @@ This project demonstrates the power of combining Natural Language Processing (NL
 
 ---
 
-<img width="1364" height="680" alt="home_page" src="https://github.com/user-attachments/assets/9e2b5888-40b4-4006-8ebe-d4f5c932bade" />
+
+<img width="1098" height="601" alt="home_page" src="https://github.com/user-attachments/assets/70f1837f-6f53-44ac-9595-2fe873c26158" />
 
 ## 🚀 Features
 
@@ -23,10 +24,11 @@ This project demonstrates the power of combining Natural Language Processing (NL
 ✔ Secure API key management  
 ✔ Simple and interactive UI with Streamlit  
 
----
-<img width="1365" height="681" alt="query_assisstance" src="https://github.com/user-attachments/assets/067fc42a-668a-40af-a3b3-ab449d15ad43" />
 
-![Uploading query_result.png…]()
+
+---<img width="1113" height="591" alt="about_page" src="https://github.com/user-attachments/assets/67af670b-cf81-40b5-baf7-6e6e4952b306" />
+
+
 
 ## 📂 Project Structure
 
@@ -42,6 +44,10 @@ Intelligent-SQL-Querying-with-LLMs-Using-Gemini-Pro/
 ```
 
 ---
+<img width="1127" height="589" alt="query_assisstance" src="https://github.com/user-attachments/assets/bd9639c5-9874-4b87-b718-3f788be89fc4" />
+
+<img width="1282" height="741" alt="query_result" src="https://github.com/user-attachments/assets/e55f9710-0c76-46a6-9932-6a9fed659520" />
+
 
 ## 🛠 Technologies Used
 
